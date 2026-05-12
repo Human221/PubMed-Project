@@ -1,0 +1,11 @@
+biopython
+transformers
+torch
+spacy
+networkx
+matplotlib
+pgmpy
+scispacy
+pandas
+numpy
+tqdm
