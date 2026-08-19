@@ -41,8 +41,6 @@ Experiment results
 - pandas / NumPy
 - Matplotlib
 
-The dependencies are declared in `requirements.txt`. citenone
-
 ## What the Project Does
 
 ### 1. PubMed data collection
